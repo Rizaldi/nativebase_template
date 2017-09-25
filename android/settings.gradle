@@ -1,0 +1,3 @@
+rootProject.name = 'nativebase_template'
+
+include ':app'
